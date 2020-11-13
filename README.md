@@ -6,5 +6,5 @@ One side chat with SignalR.
 </p>
 DB
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/773407242670178316/776899127581474826/unknown.png" width="720" height="400">
+  <img src="https://cdn.discordapp.com/attachments/773407242670178316/776899127581474826/unknown.png" width="720" height="360">
 </p>
